@@ -1,0 +1,3 @@
+1. Draft out DB architecture before writing migrations - dbdiagram.io can be used for this
+2. Properly structure api with versions - add v1,v2,etc prefixes to routes/controllers
+3. Write feature/unit tests as you code - this particular one seems like a lot of work but you will be grateful when the project gets bulky.
